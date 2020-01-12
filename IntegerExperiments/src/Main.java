@@ -25,4 +25,5 @@ public class Main {
         return allSumNumbers;
     }
 }
+//1кк
 
